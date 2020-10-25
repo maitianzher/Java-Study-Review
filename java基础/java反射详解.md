@@ -39,14 +39,14 @@
     ```java
    Class<?> classes=int.class;
    Class<?> classInt=Integer.TYPE
-    ```
+   ```
 
 3. 调用对象的`gelClass()`方法
 
     ```java
    StringBuilder str = new StringBuilder("123");
    Class<?> klass = str.getClass();
-    ```
+   ```
 
 **2.判断是否为某个类的实例**
 
@@ -288,7 +288,15 @@ arrayOop Reflection::reflect_new_array(oop element_mirror, jint length, TRAPS) {
 
 
 
+blog：<https://blog.csdn.net/javazejian/article/details/70768369>
 
+​			<https://blog.csdn.net/sinat_38259539/article/details/71799078>
+
+​			<https://blog.csdn.net/javazejian/article/details/70768369>
+
+​	
+
+​	
 
 
 
